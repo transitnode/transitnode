@@ -10,7 +10,7 @@
     \|__|\|__|\|_______|\|_______|
 ```
 
-**`transitnode`** · backend engineer · systems tinkerer · student
+**`Solo`** · backend engineer · systems tinkerer · student
 
 [![Website](https://img.shields.io/badge/miracledev.cc-0f0f0f?style=for-the-badge&logo=vercel&logoColor=00ff9f)](https://miracledev.cc)
 [![GitHub followers](https://img.shields.io/github/followers/transitnode?style=for-the-badge&color=0f0f0f&labelColor=0f0f0f&logoColor=00ff9f&logo=github)](https://github.com/transitnode)
@@ -21,15 +21,15 @@
 
 ```bash
 $ whoami
-> Solo — backend dev @ miracledev.cc, C++ enthusiast, school project hacker
+> backend dev @ miracledev.cc, C++ enthusiast, school project hacker
 ```
 
 <br/>
 
 **Currently:**
 - 🔧 Building backend infrastructure at **[miracledev.cc](https://miracledev.cc)**
-- 🎮 Shipping a **video game** as a school project
-- ⚙️ Writing low-level C++ — memory, processes, the fun stuff
+- 🎮 Shipping a **cloud storage service** as a hobby project
+- ⚙️ Writing low-level C++ -- memory, processes, the fun stuff
 
 <br/>
 
