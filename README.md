@@ -21,14 +21,14 @@
 
 ```bash
 $ whoami
-> backend dev @ miracledev.cc, C++ enthusiast, school project hacker
+> backend dev @ miracledev.cc, hobbyist, linux enthusiast
 ```
 
 <br/>
 
 **Currently:**
 - 🔧 Building backend infrastructure at **[miracledev.cc](https://miracledev.cc)**
-- 🎮 Shipping a **cloud storage service** as a hobby project
+- 🗃️ (COMING SOON!) Shipping a **cloud storage service** as a project @ **[hexaverse.hu](https://hexaverse.hu)** (COMING SOON!)
 - ⚙️ Writing low-level C++ -- memory, processes, the fun stuff
 
 <br/>
