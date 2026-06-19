@@ -26,7 +26,7 @@ $ whoami
 
 **Currently:**
 - 🔧 Building backend infrastructure at **[miracledev.cc](https://miracledev.cc)**
-- 🗃️ (COMING SOON!) Shipping a **cloud storage service** @ **[hexaverse.hu](https://hexaverse.hu)** (COMING SOON!)
+- 🗃️ (COMING SOON!) Shipping a **cloud storage service** @ **[hexaverse.host](https://hexaverse.host)** (COMING SOON!)
 - ⚙️ Writing low-level C++ -- memory, processes, the fun stuff
 
 <br/>
