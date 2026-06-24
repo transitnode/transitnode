@@ -7,7 +7,7 @@
  |__/|__/___/____/\___/\____/_/  /_/___/  
 ```
 
-**`Solo`** · backend engineer · systems tinkerer · student
+**`kaz`** · backend engineer · systems tinkerer · student
 
 [![Website](https://img.shields.io/badge/miracledev.cc-0f0f0f?style=for-the-badge&logo=vercel&logoColor=00ff9f)](https://miracledev.cc)
 [![GitHub followers](https://img.shields.io/github/followers/transitnode?style=for-the-badge&color=0f0f0f&labelColor=0f0f0f&logoColor=00ff9f&logo=github)](https://github.com/transitnode)
